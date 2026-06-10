@@ -43,3 +43,6 @@ A fully functional Student Management System built with:
 2. Clone this repository into `C:\xampp\htdocs\sms\`
 3. Import `Week5db.sql` into phpMyAdmin
 4. Open browser → `http://localhost/sms/`
+
+##  Logbook
+Ombasa BIT3208.docx is the document for my work
