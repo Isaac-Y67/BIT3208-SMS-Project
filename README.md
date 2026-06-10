@@ -23,10 +23,10 @@ A fully functional Student Management System built with:
 | Week | Topic | Status |
 |------|-------|--------|
 | Week 1 | Local Environment Setup | ✅ Complete |
-| Week 2 | Wireframes & GUI Design | 🔄 In Progress |
-| Week 3 | JavaScript & PHP Basics | ⏳ Pending |
-| Week 4 | Backend & Database | ⏳ Pending |
-| Week 5 | CRUD Operations | ⏳ Pending |
+| Week 2 | Wireframes & GUI Design | ✅ Complete  |
+| Week 3 | JavaScript & PHP Basics | ✅ Complete  |
+| Week 4 | Backend & Database |✅ Complete  |
+| Week 5 | CRUD Operations | ✅ Complete |
 
 ---
 
@@ -41,5 +41,5 @@ A fully functional Student Management System built with:
 
 1. Install XAMPP
 2. Clone this repository into `C:\xampp\htdocs\sms\`
-3. Import `Week1db.sql` into phpMyAdmin
+3. Import `Week5db.sql` into phpMyAdmin
 4. Open browser → `http://localhost/sms/`
