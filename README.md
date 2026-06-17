@@ -27,7 +27,8 @@ A fully functional Student Management System built with:
 | Week 3 | JavaScript & PHP Basics | ✅ Complete  |
 | Week 4 | Backend & Database |✅ Complete  |
 | Week 5 | CRUD Operations | ✅ Complete |
-
+| Week 6 | Database Integration and CRUD Operations | ✅ Complete |
+| Week 7 | User Authentication and Session Management | ✅ Complete |
 ---
 
 ##  Database
