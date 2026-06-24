@@ -29,6 +29,7 @@ A fully functional Student Management System built with:
 | Week 5 | CRUD Operations | ✅ Complete |
 | Week 6 | Database Integration and CRUD Operations | ✅ Complete |
 | Week 7 | User Authentication and Session Management | ✅ Complete |
+| Week 8 | Responsive Web Design and Mobile - First Development | ✅ Complete |
 ---
 
 ##  Database
